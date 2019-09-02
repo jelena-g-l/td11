@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18225" started-at="2019-07-12T22:58:24Z" finished-at="2019-07-12T22:58:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18225" started-at="2019-07-12T22:58:24Z" finished-at="2019-07-12T22:58:42Z">
+      <class name="zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest">
+        <test-method status="PASS" signature="setupSelenium()[pri:0, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="setupSelenium" is-config="true" duration-ms="9123" started-at="2019-07-12T22:58:15Z" finished-at="2019-07-12T22:58:24Z">
+        </test-method> <!-- setupSelenium -->
+        <test-method status="PASS" signature="NegPraznoDodavanjeInstitucijeTest()[pri:1, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="NegPraznoDodavanjeInstitucijeTest" duration-ms="3152" started-at="2019-07-12T22:58:24Z" finished-at="2019-07-12T22:58:27Z">
+        </test-method> <!-- NegPraznoDodavanjeInstitucijeTest -->
+        <test-method status="PASS" signature="NegNevalidanEmailDodavanjeInstitucijeTest()[pri:2, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="NegNevalidanEmailDodavanjeInstitucijeTest" duration-ms="4024" started-at="2019-07-12T22:58:27Z" finished-at="2019-07-12T22:58:31Z">
+        </test-method> <!-- NegNevalidanEmailDodavanjeInstitucijeTest -->
+        <test-method status="PASS" signature="NegSlovaUmestoBrojaTelInstitucijeTest()[pri:4, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="NegSlovaUmestoBrojaTelInstitucijeTest" duration-ms="3540" started-at="2019-07-12T22:58:31Z" finished-at="2019-07-12T22:58:35Z">
+        </test-method> <!-- NegSlovaUmestoBrojaTelInstitucijeTest -->
+        <test-method status="PASS" signature="NegNevalidnaLozinkaDodavanjeInstitucijeTest()[pri:5, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="NegNevalidnaLozinkaDodavanjeInstitucijeTest" duration-ms="2923" started-at="2019-07-12T22:58:35Z" finished-at="2019-07-12T22:58:38Z">
+        </test-method> <!-- NegNevalidnaLozinkaDodavanjeInstitucijeTest -->
+        <test-method status="PASS" signature="DodavanjeInstitucijeTest()[pri:6, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="DodavanjeInstitucijeTest" duration-ms="3736" started-at="2019-07-12T22:58:38Z" finished-at="2019-07-12T22:58:41Z">
+        </test-method> <!-- DodavanjeInstitucijeTest -->
+        <test-method status="PASS" signature="DaLiSeDodalaInstitucijaTest()[pri:7, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="DaLiSeDodalaInstitucijaTest" duration-ms="761" started-at="2019-07-12T22:58:41Z" finished-at="2019-07-12T22:58:42Z">
+        </test-method> <!-- DaLiSeDodalaInstitucijaTest -->
+        <test-method status="PASS" signature="closeSelenium()[pri:0, instance:zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest@7c0e2abd]" name="closeSelenium" is-config="true" duration-ms="701" started-at="2019-07-12T22:58:42Z" finished-at="2019-07-12T22:58:43Z">
+        </test-method> <!-- closeSelenium -->
+      </class> <!-- zavrsni_ispit_12_07_2019.Testovi.DodavanjeInstitucijaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
